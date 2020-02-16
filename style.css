@@ -1,0 +1,96 @@
+body	{
+	background-image: url("https://www.textures.com/system/gallery/photos/Animals/Reptiles/Snakes/17938/Reptiles0030_download600.jpg");
+	color: yellow;
+	font-weight: bolder;
+	font-size: 40px;
+	font-family: courier;
+	text-align: center;
+	}
+
+h1	{
+
+	}
+
+h2 {
+	word-spacing: 10px;
+}
+
+img {
+
+	height: 550px;
+	}
+
+.head {
+	font-size: 120px;
+	letter-spacing: 50px;
+	line-height: 100px;
+	font-weight: bold;
+}
+
+.header-img {
+		width: 100%;
+	height:auto;
+}
+
+.small-img {
+	object-fit: contain;
+}
+
+.head1	{
+	text-decoration: underline;
+	font-style: italic;
+	line-height: 100px;
+	}
+
+.form-style {
+	display:-moz-inline-stack;
+	display:inline-block;
+	zoom:1;
+	*display:inline;
+	text-align: left;
+    list-style-type: none;
+    padding: 0px;
+	}
+
+.no-space {
+	margin:0;
+	padding:0;
+}
+
+.bright-yellow {
+	background-color: yellow;
+}
+
+.navbar-nav.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
+
+.carousel-size {
+	max-width: 100%;
+	width: auto;
+	height: auto;
+	vertical-align: middle;
+}
+
+.card-text {
+	color: black;
+	font-size: 20px;
+}
+
+.card-image {
+	object-fit: contain;
+}
+
+.card-title {
+	font-weight: bolder;
+}
+
+.card-text {
+	font-weight: normal;
+}
+
+.card {
+	border-radius: 30px;
+}
